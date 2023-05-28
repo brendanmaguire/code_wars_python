@@ -14,3 +14,9 @@ Solutions to [Code War Katas](https://www.codewars.com) written in Python.
 source venv/bin/activate
 pytest
 ```
+
+## Build
+```
+flake8 code_wars_python tests
+mypy --disallow-untyped-defs code_wars_python tests
+```
