@@ -3,6 +3,9 @@ Solutions to [Code War Katas](https://www.codewars.com) written in Python.
 
 ## Katas
 
+### 5kyu
+* [Simple Fun #89: Boxes Packing](https://www.codewars.com/kata/58957c5041c979cf9e00002f)
+
 ### 6kyu
 * [Find Cracker](https://www.codewars.com/kata/59f70440bee845599c000085)
 * [Flip Your Stack (of Pancakes)](https://www.codewars.com/kata/6472390e0d0bb1001d963536)
