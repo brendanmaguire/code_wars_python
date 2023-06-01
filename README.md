@@ -3,6 +3,9 @@ Solutions to [Code War Katas](https://www.codewars.com) written in Python.
 
 ## Katas
 
+### 3kyu
+* [The Lift](https://www.codewars.com/kata/58905bfa1decb981da00009e)
+
 ### 5kyu
 * [Simple Fun #89: Boxes Packing](https://www.codewars.com/kata/58957c5041c979cf9e00002f)
 
